@@ -1,67 +1,129 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="style.css">
-  <title>Website</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  
-  <nav class="navbar">
-    <h1 class="logo">Adventure</h1>
-    <ul class="nav-links">
-      <li class="active"><a href="#"></a>Home</li>
-      <li><a href="#"></a>Explore</li>
-      <li><a href="#"></a>Tours</li>
-      <li><a href="#"></a>About</li>
-      <li class="ctn"><a href="#"></a>Contact</li>
-    </ul>
-    <img src="img/menu-removebg-preview.png" alt="" class="menu-btn">
-  </nav> 
+        <!-- header -->
+    <header>
+        <div class="logo">Philippines</div>
+        <ul class="menu">
+            <li>Home</li>
+            <li>Tours</li>
+            <li>Gallery</li>
+        </ul>
+        <div class="search">
+            <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m19 19-4-4m0-7A7 7 0 1 1 1 8a7 7 0 0 1 14 0Z"/>
+            </svg>
+        </div>
+    </header>
 
-  <header>
-    <div class="header-content">
-    <h2>Explore The Philippines</h2>
-    <div class="line"></div>
-    <h1>ADIOS MADAPAKERS</h1>
-    <a href="#" class="ctn">Learn More</a>
+    <!-- slider -->
+
+    <div class="slider">
+        <!-- list Items -->
+        <div class="list">
+            <div class="item active">
+                <img src="img/hills.jpeg">
+                <div class="content">
+                    <p>design</p>
+                    <h2>Slider 01</h2>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, neque?
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, ex.
+                    </p>
+                </div>
+            </div>
+            <div class="item">
+                <img src="img/island.jpeg">
+                <div class="content">
+                    <p>design</p>
+                    <h2>Slider 02</h2>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, neque?
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, ex.
+                    </p>
+                </div>
+            </div>
+            <div class="item">
+                <img src="img/mayon.jpeg">
+                <div class="content">
+                    <p>design</p>
+                    <h2>Slider 03</h2>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, neque?
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, ex.
+                    </p>
+                </div>
+            </div>
+            <div class="item">
+                <img src="img/pexels-nikko-tan-133689.jpg">
+                <div class="content">
+                    <p>design</p>
+                    <h2>Slider 04</h2>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, neque?
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, ex.
+                    </p>
+                </div>
+            </div>
+            <div class="item">
+                <img src="img/pexels-photo-3507996.jpeg">
+                <div class="content">
+                    <p>design</p>
+                    <h2>Slider 05</h2>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, neque?
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, ex.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <!-- button arrows -->
+        <div class="arrows">
+            <button id="prev"><</button>
+            <button id="next">></button>
+        </div>
+        <!-- thumbnail -->
+        <div class="thumbnail">
+            <div class="item active">
+                <img src="img/hills.jpeg">
+                <div class="content">
+                    Name Slider
+                </div>
+            </div>
+            <div class="item">
+                <img src="img/island.jpeg">
+                <div class="content">
+                    Name Slider
+                </div>
+            </div>
+            <div class="item">
+                <img src="img/mayon.jpeg">
+                <div class="content">
+                    Name Slider
+                </div>
+            </div>
+            <div class="item">
+                <img src="img/pexels-nikko-tan-133689.jpg">
+                <div class="content">
+                    Name Slider
+                </div>
+            </div>
+            <div class="item">
+                <img src="img/pexels-nikko-tan-133689.jpg">
+                <div class="content">
+                    Name Slider
+                </div>
+            </div>
+        </div>
     </div>
-  </header>
-
-  <!-- ==Events== -->
 
 
-  <section class="events">
-      <div class="title">
-        <h1>Explore More</h1>
-        <div class="line"></div>
-      </div>
-
-    <div class="row">
-      <div class="col">
-        <img src="img/mayon.jpeg" alt="">
-        <h4>Places</h4>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, voluptatibus? Alias ut dicta maiores culpa.</p>
-        <a href="#" class="ctn">Learn More</a>
-      </div>
-      <div class="col">
-        <img src="img/hills.jpeg" alt="">
-        <h4>Places</h4>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, voluptatibus? Alias ut dicta maiores culpa.</p>
-        <a href="#" class="ctn">Learn More</a>
-      </div>
-    </div>
-  </section>
-
-  <script>
-    const menuBtn = document.querySelector('.menu-btn')
-    const navlinks = document.querySelector('.nav-links')
-
-    menuBtn.addEventListener('click',()=>{
-      navlinks.classList.toggle('mobile-menu')
-    })
-  </script>
-
+    <script src="script.js"></script>
 </body>
 </html>
