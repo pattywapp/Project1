@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Philippines</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -28,57 +28,61 @@
         <!-- list Items -->
         <div class="list">
             <div class="item active">
-                <img src="img/hills.jpeg">
+                <img src="img/mayon1.jpeg">
                 <div class="content">
-                    <p>design</p>
-                    <h2>Slider 01</h2>
+                    <p>Albay, Bicol</p>
+                    <h2>Mayon Volcano</h2>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, neque?
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, ex.
+                    Mayon Volcano is an active stratovolcano located in the province of Albay on the island of Luzon in the Philippines.
+                     It is renowned for its nearly perfect conical shape, making it one of the most iconic landmarks of the Philippines.
                     </p>
                 </div>
             </div>
             <div class="item">
                 <img src="img/island.jpeg">
                 <div class="content">
-                    <p>design</p>
-                    <h2>Slider 02</h2>
+                    <p>Alaminos, Pangasinan</p>
+                    <h2>Hundered Island</h2>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, neque?
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, ex.
+                    The Hundred Islands National Park is a picturesque archipelago located off the coast of Alaminos City in the province
+                     of Pangasinan, Philippines. Comprising over 100 small islands and islets scattered across Lingayen Gulf, this natura
+                     l wonder is renowned for its stunning limestone formations, crystal-clear waters, and diverse marine life.
                     </p>
                 </div>
             </div>
             <div class="item">
-                <img src="img/mayon.jpeg">
+                <img src="img/les cabanes.jpeg">
                 <div class="content">
-                    <p>design</p>
-                    <h2>Slider 03</h2>
-                    <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, neque?
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, ex.
+                    <p>Elnido, Palawan</p>
+                    <h2>Las Cabanas</h2>
+                    <p>                
+                    Las Cabanas Beach is a renowned coastal gem situated near El Nido in Palawan, Philippines. With its powdery white
+                     sand, crystal-clear turquoise waters, and dramatic limestone cliffs, Las Cabanas Beach offers a breathtaking 
+                     tropical escape.
                     </p>
                 </div>
             </div>
             <div class="item">
-                <img src="img/pexels-nikko-tan-133689.jpg">
+                <img src="img/little borac.jpg">
                 <div class="content">
-                    <p>design</p>
-                    <h2>Slider 04</h2>
+                    <p>Nasugbu, Batangas</p>
+                    <h2>Little Boracay</h2>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, neque?
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, ex.
+                    "Little Boracay" is a charming beach destination located in Nasugbu, Batangas, Philippines. Known for its pristine
+                     white sand shores and clear turquoise waters, Little Boracay offers visitors a serene and picturesque getaway 
+                     reminiscent of the famous Boracay Island. 
                     </p>
                 </div>
             </div>
             <div class="item">
-                <img src="img/pexels-photo-3507996.jpeg">
+                <img src="img/lihhthouse.jpeg">
                 <div class="content">
-                    <p>design</p>
-                    <h2>Slider 05</h2>
+                    <p>Basco, Batanes</p>
+                    <h2>Basco Lighthouse</h2>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, neque?
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, ex.
+                    The Basco Lighthouse is an iconic landmark located in Basco, the capital of Batanes province in the Philippines. Perched atop Naidi Hill,
+                     this picturesque lighthouse offers panoramic views of the surrounding landscapes, including the rugged coastlines 
+                     and the vast expanse of the West Philippine Sea.
                     </p>
                 </div>
             </div>
@@ -91,7 +95,7 @@
         <!-- thumbnail -->
         <div class="thumbnail">
             <div class="item active">
-                <img src="img/hills.jpeg">
+                <img src="img/mayon1.jpeg">
                 <div class="content">
                     Name Slider
                 </div>
@@ -103,27 +107,25 @@
                 </div>
             </div>
             <div class="item">
-                <img src="img/mayon.jpeg">
+                <img src="img/les cabanes.jpeg">
                 <div class="content">
                     Name Slider
                 </div>
             </div>
             <div class="item">
-                <img src="img/pexels-nikko-tan-133689.jpg">
+                <img src="img/little borac.jpg">
                 <div class="content">
                     Name Slider
                 </div>
             </div>
             <div class="item">
-                <img src="img/pexels-nikko-tan-133689.jpg">
+                <img src="img/lihhthouse.jpeg">
                 <div class="content">
                     Name Slider
                 </div>
             </div>
         </div>
     </div>
-
-
     <script src="script.js"></script>
 </body>
 </html>
