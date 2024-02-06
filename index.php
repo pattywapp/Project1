@@ -9,11 +9,11 @@
 <body>
   
   <nav class="navbar">
-    <h1 class="logo">Logo</h1>
+    <h1 class="logo">Adventure</h1>
     <ul class="nav-links">
       <li class="active"><a href="#"></a>Home</li>
       <li><a href="#"></a>Explore</li>
-      <li><a href="#"></a>Places</li>
+      <li><a href="#"></a>Tours</li>
       <li><a href="#"></a>About</li>
       <li class="ctn"><a href="#"></a>Contact</li>
     </ul>
@@ -53,7 +53,7 @@
       </div>
     </div>
   </section>
-  
+
   <script>
     const menuBtn = document.querySelector('.menu-btn')
     const navlinks = document.querySelector('.nav-links')

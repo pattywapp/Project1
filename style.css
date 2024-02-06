@@ -160,12 +160,9 @@ section.events .row .col .ctn {
   width: fit-content; /* Adjust width based on content */
 }
 
-
-
 section.events .row .col .ctn:hover {
   background: #ff4d89;
 }
-
 
 /* Mobile View */
 
@@ -202,4 +199,3 @@ section.events .row .col .ctn:hover {
     margin: 10px auto; /* Center the button in mobile view */
   }
 }
-
