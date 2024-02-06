@@ -51,3 +51,28 @@ thumbnails.forEach((thumbnail, index) => {
         showSlider();
     })
 })
+
+
+    // Get references to the <li> items
+    const homeLi = document.getElementById('home');
+    const toursLi = document.getElementById('tours');
+    const galleryLi = document.getElementById('gallery');
+
+    // Add click event listeners to each <li> item
+    homeLi.addEventListener('click', function() {
+        // Perform action when Home is clicked
+        // For example, you can navigate to the home page
+        window.location.href = 'home.html';
+    });
+
+    toursLi.addEventListener('click', function() {
+        // Perform action when Tours is clicked
+        // For example, you can navigate to the tours page
+        window.location.href = 'tours.html';
+    });
+
+    galleryLi.addEventListener('click', function() {
+        // Perform action when Gallery is clicked
+        // For example, you can navigate to the gallery page
+        window.location.href = 'gallery.html';
+    });

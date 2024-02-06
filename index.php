@@ -11,9 +11,9 @@
     <header>
         <div class="logo">Philippines</div>
         <ul class="menu">
-            <li>Home</li>
-            <li>Tours</li>
-            <li>Gallery</li>
+        <li id="home">Home</li>
+        <li id="tours">Tours</li>
+        <li id="gallery">Gallery</li>      
         </ul>
         <div class="search">
             <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
