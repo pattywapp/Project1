@@ -86,6 +86,53 @@
                     </p>
                 </div>
             </div>
+            <div class="item">
+                <img src="img/Calle Crisologo.jpeg">
+                <div class="content">
+                    <p>Vigan</p>
+                    <h2>Calle Crisologo</h2>
+                    <p>          
+                    Calle Crisologo is a historic cobblestone street located in Vigan City, Philippines. It is renowned for its well-preserved Spanish 
+                    colonial architecture, which dates back to the 16th century.  
+                    </p>
+                </div>
+            </div>
+            <div class="item">
+                <img src="img/Fort Santiago.jpeg">
+                <div class="content">
+                    <p>Intramuros, Manila</p>
+                    <h2>Fort Santiago</h2>
+                    <p>      
+                        Fort Santiago is a historic citadel located in Intramuros, Manila, Philippines. Built by Spanish conquistador Miguel López de 
+                        Legazpi in the late 16th century, it served as a defensive fortress to protect Manila from foreign invasions.
+                    </p>
+                </div>
+            </div>
+            <div class="item">
+                <img src="img/Chamantad Tinan.jpg">
+                <div class="content">
+                    <p>Sabtang, Batanes</p>
+                    <h2>Chamantad Tinan </h2>
+                    <p>
+                    Chamantad Tinan Cove is a stunning natural attraction located on the island of Sabtang in the province of Batanes, Philippines. 
+                    It is renowned for its picturesque landscape, characterized by towering cliffs, lush greenery, and pristine white sand beaches.
+                    </p>
+                </div>
+            </div>
+            <div class="item">
+                <img src="img/Hinatuan Enchanted RIver.jpg">
+                <div class="content">
+                    <p>Surigao, Del Sur</p>
+                    <h2>Hinatuan River</h2>
+                    <p>
+                        The Hinatuan Enchanted River is a captivating natural wonder located in Barangay Talisay, Hinatuan, Surigao del Sur,
+                         Philippines. This majestic river is renowned for its stunning blue waters, which are crystal clear and seemingly enchanted, 
+                         giving rise to its name.
+                    </p>
+                </div>
+            </div>
+            
+            
         </div>
         <!-- button arrows -->
         <div class="arrows">
@@ -124,6 +171,30 @@
                     Name Slider
                 </div>
             </div>
+            <div class="item">
+                <img src="img/Calle Crisologo.jpeg">
+                <div class="content">
+                    Name Slider
+                </div>
+            </div>
+            <div class="item">
+                <img src="img/Fort Santiago.jpeg">
+                <div class="content">
+                    Name Slider
+                </div>
+            </div>
+            <div class="item">
+                <img src="img/Chamantad Tinan.jpg">
+                <div class="content">
+                    Name Slider
+                </div>
+            </div>
+            <div class="item">
+                <img src="img/Hinatuan Enchanted RIver.jpg">
+                <div class="content">
+                    Name Slider
+                </div>
+            </div>
         </div>
     </div>
 
@@ -133,16 +204,24 @@
             <img src="img/family2.jpeg">
         </div>
         <div class="right">
-            <h5>About</h5>
-            <h3>About Me</h3>
+            <h5>Welcome to the Philippines</h5>
+
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce varius faucibus massa sollicitudin amet
-                augue. Nibh metus a semper purus mauris duis. Lorem eu neque, tristique quis duis. Nibh scelerisque ac
-                adipiscing velit non nulla in amet pellentesque.
+            I just got a new guy, and he's getting me fly
+            I'm richer than my ex, had his card on decline
+            I just wanna buy all the finer things in life
+            Morena got that crazy, crazy mind
+
+            [Verse 1]
+            I'm cypherin' all just by myself (What?)
+            I don't need another artist for some help, no
+            Speaking Spanish and Ingles as well
+            I'm Filipina if you couldn't fuckin' tell
+
             </p>
             <p>
-                Sit turpis pretium eget maecenas. Vestibulum dolor mattis consectetur eget commodo vitae. Amet
-                pellentesque sit pulvinar lorem mi a, euismod risus r.
+            Kakagising ko lang, kakagising ko lang
+            Kakagising ko lang, kakagising ko lang
             </p>
         </div>
     </div>
@@ -150,39 +229,38 @@
     <div class="portfolio" id="portfolio">
         <div class="header">
             <div class="info">
-                <h5>Recent Projects</h5>
-                <h3>My Portfolio</h3>
+                <h5>View Attractions</h5>
             </div>
-            <button><i class='bx bxl-youtube'></i> Visit My Youtube</button>
         </div>
 
         <div class="portfo-items">
             <div class="item">
-                <img src="img/child1.webp">
+                <img src="img/Hanging Coffins and Sumaging Cave.jpg">
                 <div class="info">
-                    <h4>Portfolio #3</h4>
+                    <h4>Hanging Coffins and Sumaging Cave</h4>
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.
+                    The Hanging Coffins and Sumaging Cave are two fascinating attractions located in Sagada, a municipality in the
+                     Mountain Province of the Philippines.
                     </p>
-                    <a href="#">View in Youtube <i class='bx bx-link-external'></i></a>
+                    <a href="https://www.youtube.com/shorts/qwEja4V3iIk">View in Youtube <i class='bx bx-link-external'></i></a>
                 </div>
             </div>
             <div class="item">
-                <img src="img/child2.jpeg">
+                <img src="img/Hinatuan Enchanted RIver.jpg">
                 <div class="info">
-                    <h4>Simple Blog Page</h4>
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.
+                    <h4>Hinatuan Enchanted RIver</h4>
+                    <p>       
+                        The Hinatuan Enchanted River is a captivating natural wonder located in Barangay Talisay, Hinatuan, Surigao del Sur, Philippines. 
                     </p>
-                    <a href="#">View in Youtube <i class='bx bx-link-external'></i></a>
+                    <a href="https://youtube.com/shorts/ORIyg2fs-qw?si=UPs-pYWoaKSP4QzV">View in Youtube <i class='bx bx-link-external'></i></a>
                 </div>
             </div>
             <div class="item">
-                <img src="img/family2.jpeg">
+                <img src="img/Chamantad Tinan.jpg">
                 <div class="info">
-                    <h4>Animated Nav</h4>
+                    <h4>Chamantad Tinan </h4>
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.
+                    Chamantad Tinan Cove is a breathtaking natural attraction located on the island of Sabtang in the province of Batanes, Philippines. 
                     </p>
                     <a href="#">View in Youtube <i class='bx bx-link-external'></i></a>
                 </div>
@@ -193,10 +271,6 @@
 
     <footer>
         <div class="top">
-            <div class="logo">
-                <img src="assets/logo.png">
-                <a href="https://youtube.com/@AsmrProg">AsmrProg</a>
-            </div>
             <ul>
                 <li><a href="#">Home</a></li>
                 <li><a href="#">Blog</a></li>
@@ -213,9 +287,6 @@
         </div>
         <div class="separator"></div>
         <div class="bottom">
-            <p>
-                Made With ❤️ By AsmrProg
-            </p>
             <div class="links">
                 <a href="#">Privacy Policy</a>
                 <a href="#">Terms of Service</a>
