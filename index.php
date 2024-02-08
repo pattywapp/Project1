@@ -126,6 +126,105 @@
             </div>
         </div>
     </div>
+
+
+    <div class="about" id="about">
+        <div class="left">
+            <img src="img/family2.jpeg">
+        </div>
+        <div class="right">
+            <h5>About</h5>
+            <h3>About Me</h3>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce varius faucibus massa sollicitudin amet
+                augue. Nibh metus a semper purus mauris duis. Lorem eu neque, tristique quis duis. Nibh scelerisque ac
+                adipiscing velit non nulla in amet pellentesque.
+            </p>
+            <p>
+                Sit turpis pretium eget maecenas. Vestibulum dolor mattis consectetur eget commodo vitae. Amet
+                pellentesque sit pulvinar lorem mi a, euismod risus r.
+            </p>
+        </div>
+    </div>
+
+    <div class="portfolio" id="portfolio">
+        <div class="header">
+            <div class="info">
+                <h5>Recent Projects</h5>
+                <h3>My Portfolio</h3>
+            </div>
+            <button><i class='bx bxl-youtube'></i> Visit My Youtube</button>
+        </div>
+
+        <div class="portfo-items">
+            <div class="item">
+                <img src="img/child1.webp">
+                <div class="info">
+                    <h4>Portfolio #3</h4>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.
+                    </p>
+                    <a href="#">View in Youtube <i class='bx bx-link-external'></i></a>
+                </div>
+            </div>
+            <div class="item">
+                <img src="img/child2.jpeg">
+                <div class="info">
+                    <h4>Simple Blog Page</h4>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.
+                    </p>
+                    <a href="#">View in Youtube <i class='bx bx-link-external'></i></a>
+                </div>
+            </div>
+            <div class="item">
+                <img src="img/family2.jpeg">
+                <div class="info">
+                    <h4>Animated Nav</h4>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.
+                    </p>
+                    <a href="#">View in Youtube <i class='bx bx-link-external'></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <footer>
+        <div class="top">
+            <div class="logo">
+                <img src="assets/logo.png">
+                <a href="https://youtube.com/@AsmrProg">AsmrProg</a>
+            </div>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Blog</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="#">Youtube</a></li>
+                <li><a href="#">Projects</a></li>
+            </ul>
+            <div class="social-links">
+                <a href="#"><i class='bx bxl-facebook'></i></a>
+                <a href="#"><i class='bx bxl-instagram'></i></a>
+                <a href="#"><i class='bx bxl-twitter'></i></a>
+                <a href="#"><i class='bx bxl-linkedin-square'></i></a>
+            </div>
+        </div>
+        <div class="separator"></div>
+        <div class="bottom">
+            <p>
+                Made With ❤️ By AsmrProg
+            </p>
+            <div class="links">
+                <a href="#">Privacy Policy</a>
+                <a href="#">Terms of Service</a>
+                <a href="#">Cookies Setting</a>
+            </div>
+        </div>
+    </footer>
+
+
     <script src="script.js"></script>
 </body>
 </html>
