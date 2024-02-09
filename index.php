@@ -11,15 +11,12 @@
     <header>
         <div class="logo">Philippines</div>
         <ul class="menu">
-        <li id="home">Home</li>
-        <li id="tours">Tours</li>
-        <li id="gallery">Gallery</li>      
+        <li><a href="#list">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#att">View More</a></li>
+            <li><a href="#gallery">Gallery</a></li>
+            <li><a href="attraction.php">Attractions</a></li> 
         </ul>
-        <div class="search">
-            <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
-                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m19 19-4-4m0-7A7 7 0 1 1 1 8a7 7 0 0 1 14 0Z"/>
-            </svg>
-        </div>
     </header>
 
     <!-- slider -->
@@ -42,7 +39,7 @@
                 <img src="img/island.jpeg">
                 <div class="content">
                     <p>Alaminos, Pangasinan</p>
-                    <h2>Hundered Island</h2>
+                    <h2>Hundred Island</h2>
                     <p>
                     The Hundred Islands National Park is a picturesque archipelago located off the coast of Alaminos City in the province
                      of Pangasinan, Philippines. Comprising over 100 small islands and islets scattered across Lingayen Gulf, this natura
@@ -119,7 +116,7 @@
                     </p>
                 </div>
             </div>
-            <div class="item">
+            <div class="item" id="list">
                 <img src="img/Hinatuan Enchanted RIver.jpg">
                 <div class="content">
                     <p>Surigao, Del Sur</p>
@@ -128,6 +125,18 @@
                         The Hinatuan Enchanted River is a captivating natural wonder located in Barangay Talisay, Hinatuan, Surigao del Sur,
                          Philippines. This majestic river is renowned for its stunning blue waters, which are crystal clear and seemingly enchanted, 
                          giving rise to its name.
+                    </p>
+                </div>
+            </div>
+            <div class="item">
+                <img src="img/Hanging Coffins and Sumaging Cave.jpg">
+                <div class="content">
+                    <p>Sagada Mt. Province</p>
+                    <h2>Hanging Coffins </h2>
+                    <p>
+                    Hanging coffins, practiced by indigenous tribes, involve suspending coffins from cliffs or caves, symbolizing a connection to the heavens.
+                    Meanwhile, Sumaguing Cave in Sagada, Philippines, offers adventurous explorers a journey through stunning rock formations, underground rivers,
+                    and natural pools, showcasing the region's natural beauty.
                     </p>
                 </div>
             </div>
@@ -141,58 +150,64 @@
         </div>
         <!-- thumbnail -->
         <div class="thumbnail">
-            <div class="item active">
+            <div class="item active">   
                 <img src="img/mayon1.jpeg">
                 <div class="content">
-                    Name Slider
+                Mayon Volcano
                 </div>
             </div>
             <div class="item">
                 <img src="img/island.jpeg">
                 <div class="content">
-                    Name Slider
+                Hundred Island
                 </div>
             </div>
             <div class="item">
                 <img src="img/les cabanes.jpeg">
                 <div class="content">
-                    Name Slider
+                Las Cabanas Beach
                 </div>
             </div>
             <div class="item">
                 <img src="img/little borac.jpg">
                 <div class="content">
-                    Name Slider
+                Little Boracay
                 </div>
             </div>
             <div class="item">
                 <img src="img/lihhthouse.jpeg">
                 <div class="content">
-                    Name Slider
+                Basco Lighthouse
                 </div>
             </div>
             <div class="item">
                 <img src="img/Calle Crisologo.jpeg">
                 <div class="content">
-                    Name Slider
+                Calle Crisologo
                 </div>
             </div>
             <div class="item">
                 <img src="img/Fort Santiago.jpeg">
                 <div class="content">
-                    Name Slider
+                Fort Santiago
                 </div>
             </div>
             <div class="item">
                 <img src="img/Chamantad Tinan.jpg">
                 <div class="content">
-                    Name Slider
+                Chamantad Tinan
                 </div>
             </div>
             <div class="item">
                 <img src="img/Hinatuan Enchanted RIver.jpg">
                 <div class="content">
-                    Name Slider
+                Hinatuan River
+                </div>
+            </div>
+            <div class="item">
+                <img src="img/Hanging Coffins and Sumaging Cave.jpg">
+                <div class="content">
+                Hanging Coffins
                 </div>
             </div>
         </div>
@@ -226,14 +241,14 @@
         </div>
     </div>
 
-    <div class="portfolio" id="portfolio">
+    <div class="attraction" id="att">
         <div class="header">
             <div class="info">
-                <h5>View Attractions</h5>
+                <h5>View More</h5>
             </div>
         </div>
 
-        <div class="portfo-items">
+        <div class="attract-items">
             <div class="item">
                 <img src="img/Hanging Coffins and Sumaging Cave.jpg">
                 <div class="info">
@@ -265,19 +280,14 @@
                     <a href="#">View in Youtube <i class='bx bx-link-external'></i></a>
                 </div>
             </div>
+            
         </div>
     </div>
 
 
     <footer>
+    <h5>Philippines</h5>
         <div class="top">
-            <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Blog</a></li>
-                <li><a href="#">Contact</a></li>
-                <li><a href="#">Youtube</a></li>
-                <li><a href="#">Projects</a></li>
-            </ul>
             <div class="social-links">
                 <a href="#"><i class='bx bxl-facebook'></i></a>
                 <a href="#"><i class='bx bxl-instagram'></i></a>

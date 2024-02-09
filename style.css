@@ -21,12 +21,12 @@ body{
 
 a{
     text-decoration: none;
-    color: #1c1e53;
+    color: #ffffff;
     transition: color 0.3s ease;
 }
 
 a:hover{
-    color: #5e3bee !important;
+    color: #c4c4c4 !important;
 }
 
 h5{
@@ -177,16 +177,17 @@ header .menu{
     box-sizing: border-box;
     overflow: auto;
     justify-content: center;
-}
+  }
 .thumbnail::-webkit-scrollbar{
     width: 0;
 }
 .thumbnail .item{
     width: 150px;
-    height: 220px;
+    height: 150px;
     filter: brightness(.5);
     transition: .5s;
     flex-shrink: 0;
+    cursor: pointer;
 }
 .thumbnail .item img{
     width: 100%;
@@ -228,19 +229,19 @@ header .menu{
     text-align: center; /* Center align the text */
 }
 
-.portfolio{
+.attraction{
     background-color: #000000;
     padding: 110px 85px;
 }
 
-.portfolio .header{
+.attraction .header{
     display: flex;
     align-items: center;
     justify-content: space-between;
     margin-bottom: 60px;
 }
 
-.portfolio .header button{
+.attraction .header button{
     background-color: #ff0000;
     padding: 10px 20px;
     color: #000000;
@@ -252,17 +253,18 @@ header .menu{
     border-radius: 10px;
 }
 
-.portfolio .header button i{
+.attraction .header button i{
     font-size: 26px;
 }
 
-.portfolio .portfo-items{
+
+.attraction .attract-items{
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
-.portfolio .portfo-items .item{
+.attraction .attract-items .item{
     width: 30%;
     background-color: #000000;
     border-radius: 10px;
@@ -272,11 +274,11 @@ header .menu{
     transition: all 0.3s ease;
 }
 
-.portfolio .portfo-items .item:hover{
+.attraction .attract-items .item:hover{
     border-color: #4b22f0;
 }
 
-.portfolio .portfo-items .item img{
+.attraction .attract-items .item img{
     width: 100%;
     height: 240px;
     object-fit: cover;
@@ -284,24 +286,24 @@ header .menu{
     border-radius: 10px 10px 20px 20px;
 }
 
-.portfolio .portfo-items .item .info{
+.attraction .attract-items .item .info{
     display: flex;
     flex-direction: column;
     gap: 14px;
     padding: 20px 32px 42px;
 }
 
-.portfolio .portfo-items .item .info p{
+.attraction .attract-items .item .info p{
     font-size: 13px;
 }
 
-.portfolio .portfo-items .item .info a{
+.attraction .attract-items .item .info a{
     text-decoration: underline;
     text-underline-offset: 10px;
     text-decoration-color: #5e3bee;
 }
 
-.portfolio .portfo-items .item .info a i{
+.attraction .attract-items .item .info a i{
     margin-left: 2px;
     font-size: 16px;
 }
@@ -377,7 +379,7 @@ footer .bottom .links a{
 
     .skills h3,
     .about .right h3,
-    .portfolio .header h3,
+    .attraction .header h3,
     .feedback h3{
         font-size: 32px;
     }
@@ -423,13 +425,13 @@ footer .bottom .links a{
         justify-content: center;
     }
 
-    .portfolio .portfo-items{
+    .attraction .attract-items{
         gap: 22px;
         flex-wrap: wrap;
         justify-content: center;
     }
 
-    .portfolio .portfo-items .item{
+    .attraction .attract-items .item{
         width: 48%;
     }
 
@@ -488,11 +490,11 @@ footer .bottom .links a{
         padding: 85px 42px;
     }
 
-    .portfolio{
+    .attraction{
         padding: 60px 42px;
     }
 
-    .portfolio .portfo-items{
+    .attraction .attract-items{
         gap: 18px;
     }
 
@@ -537,12 +539,12 @@ footer .bottom .links a{
         width: 100%;
     }
 
-    .portfolio .header button{
+    .attraction .header button{
         font-size: 12px;
         padding: 8px 14px;
     }
 
-    .portfolio .portfo-items .item{
+    .attraction .attract-items .item{
         width: 80%;
     }
 

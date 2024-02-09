@@ -1,3 +1,17 @@
+ // Smooth scrolling for anchor links
+ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+
+        document.querySelector(this.getAttribute('href')).scrollIntoView({
+            behavior: 'smooth'
+        });
+    });
+});
+
+
+
+
 let items = document.querySelectorAll('.slider .list .item');
 let next = document.getElementById('next');
 let prev = document.getElementById('prev');
@@ -43,36 +57,3 @@ function showSlider(){
         next.click();
     }, 5000)
 }
-
-// click thumbnail
-thumbnails.forEach((thumbnail, index) => {
-    thumbnail.addEventListener('click', () => {
-        itemActive = index;
-        showSlider();
-    })
-})
-
-
-    // Get references to the <li> items
-    const homeLi = document.getElementById('home');
-    const toursLi = document.getElementById('tours');
-    const galleryLi = document.getElementById('gallery');
-
-    // Add click event listeners to each <li> item
-    homeLi.addEventListener('click', function() {
-        // Perform action when Home is clicked
-        // For example, you can navigate to the home page
-        window.location.href = 'home.html';
-    });
-
-    toursLi.addEventListener('click', function() {
-        // Perform action when Tours is clicked
-        // For example, you can navigate to the tours page
-        window.location.href = 'tours.html';
-    });
-
-    galleryLi.addEventListener('click', function() {
-        // Perform action when Gallery is clicked
-        // For example, you can navigate to the gallery page
-        window.location.href = 'gallery.html';
-    });
