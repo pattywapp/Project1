@@ -126,7 +126,7 @@
             <p> A beautiful beach destination known for its fine white sand and clear blue waters. It offers a serene and picturesque environment
                  similar to the renowned Boracay Island, albeit on a smaller scale. Visitors can enjoy swimming, sunbathing, and various water activ
                  ities such as snorkeling and kayaking.</p>
-            <a href="view_more_3.html">View More</a> <!-- Add a View More link -->
+            <a href="Boracay.php">View More</a> <!-- Add a View More link -->
         </div>
     </div>
 
@@ -141,7 +141,7 @@
                 <h4> Intramuros, Manila</h4>
             </div>
             <p> A historical citadel located in Intramuros, Manila, Philippines, it played a significant role in the country's history during the Spanish colonial period.</p>
-            <a href="view_more_3.html">View More</a> <!-- Add a View More link -->
+            <a href="FortSantiago.php">View More</a> <!-- Add a View More link -->
         </div>
     </div>
     <div class="item">
@@ -152,7 +152,7 @@
                 <h4>Batanes, Philippines</h4>
             </div>
             <p> Found in Batanes, Philippines, it's a breathtaking rolling hills landscape with stunning views of the sea and cliffs, perfect for hiking and photography.</p>
-            <a href="view_more_3.html">View More</a> <!-- Add a View More link -->
+            <a href="Chamantad.php">View More</a> <!-- Add a View More link -->
         </div>
     </div>
     <div class="item">
@@ -163,7 +163,7 @@
                 <h4>Basco, Batanes</h4>
             </div>
             <p>Standing tall in Basco, Batanes, Philippines, it offers panoramic views of the West Philippine Sea and the surrounding lush landscapes.</p>
-            <a href="view_more_3.html">View More</a> <!-- Add a View More link -->
+            <a href="Basco.php">View More</a> <!-- Add a View More link -->
         </div>
     </div>
     <div class="item">
@@ -174,7 +174,7 @@
                 <h4>Alaminos, Pangasinan</h4>
             </div>
             <p>Situated in Alaminos, Pangasinan, Philippines, this collection of approximately 124 islands offers pristine beaches, caves, and clear waters ideal for island hopping and snorkeling.</p>
-            <a href="view_more_3.html">View More</a> <!-- Add a View More link -->
+            <a href="Island.php">View More</a> <!-- Add a View More link -->
         </div>
     </div>
     <div class="item">
@@ -185,7 +185,7 @@
                 <h4>Sagada, Mountain Province</h4>
             </div>
             <p>  Located in Sagada, Mountain Province, Philippines, this site is known for its ancient hanging coffins suspended on limestone cliffs and the vast network of caves like Sumaging Cave, which is famous for its unique rock formations and underground rivers.</p>
-            <a href="view_more_3.html">View More</a> <!-- Add a View More link -->
+            <a href="HCoffins.php">View More</a> <!-- Add a View More link -->
         </div>
     </div>
 </div>
