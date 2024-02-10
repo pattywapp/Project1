@@ -75,7 +75,7 @@
             <p>Mayon Volcano is an active stratovolcano renowned for its near-perfect
                  cone shape. It is one of the most iconic landmarks in the Philippine
                  s, known for its picturesque scenery and frequent eruptions.</p>
-            <a href="view_more_1.html">View More</a> <!-- Add a View More link -->
+            <a href="mayon.php">View More</a> <!-- Add a View More link -->
         </div>
     </div>
     <div class="item">

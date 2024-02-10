@@ -9,9 +9,6 @@
     });
 });
 
-
-
-
 let items = document.querySelectorAll('.slider .list .item');
 let next = document.getElementById('next');
 let prev = document.getElementById('prev');

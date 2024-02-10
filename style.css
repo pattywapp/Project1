@@ -204,10 +204,10 @@ header .menu{
 }
 
 .about{
-    padding: 110px;
+    padding: 80px;
     display: flex;
     align-items: center;
-    gap: 60px;
+    gap: 30px;
 }
 
 .about .left{

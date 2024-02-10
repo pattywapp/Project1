@@ -18,6 +18,18 @@ img{
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
 }
 
+
+a{
+    text-decoration: none;
+    color: #000;
+}
+
+img{
+    object-fit: cover;
+    object-position: top;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
 nav {
     position: absolute;
     top: 0;
