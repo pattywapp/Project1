@@ -24,8 +24,9 @@
 
     <div class="main">
         <div class="info">
-            <h1>Welcome <br>To The Philippines</h1>
-            <p>Discover paradise beneath the palms, where crystal-clear waters kiss powdery white sands. Dive into adventure or simply unwind in the lap of luxury. From vibrant festivals to serene sunsets, let the Philippines captivate your soul and leave you longing for more.</p>
+            <h1>Experience the Magic <br>of the Philippines</h1>
+            <p>Embark on a journey to paradise nestled beneath swaying palms, where pristine waters meet soft, sandy shores. Dive into a world of adventure or bask in luxurious tranquility. With its kaleidoscope of vibrant festivals and breathtaking sunsets, the Philippines is a treasure trove for the soul, beckoning you to explore its countless wonders.</p>
+         
         </div>
        
     </div>

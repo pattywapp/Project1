@@ -215,28 +215,11 @@
 
     <div class="about" id="about">
         <div class="left">
-            <img src="img/family2.jpeg">
+            <img src="img/pexels-photo-flasssssssssssss.webp">
         </div>
         <div class="right">
-            <h5>Welcome to the Philippines</h5>
-
-            <p>
-            I just got a new guy, and he's getting me fly
-            I'm richer than my ex, had his card on decline
-            I just wanna buy all the finer things in life
-            Morena got that crazy, crazy mind
-
-            [Verse 1]
-            I'm cypherin' all just by myself (What?)
-            I don't need another artist for some help, no
-            Speaking Spanish and Ingles as well
-            I'm Filipina if you couldn't fuckin' tell
-
-            </p>
-            <p>
-            Kakagising ko lang, kakagising ko lang
-            Kakagising ko lang, kakagising ko lang
-            </p>
+            <h5>Discover the Philippines: Where Dreams Come Alive</h5>
+            <p>Get ready for a journey like no other, where every moment is a melody and every sight a symphony. From the emerald isles to the bustling cities, the Philippines invites you to dive into a world of endless wonder and unforgettable experiences. Let your senses awaken as you explore paradise found in every corner of this breathtaking archipelago.</p>
         </div>
     </div>
 
@@ -249,32 +232,31 @@
 
         <div class="attract-items">
             <div class="item">
-                <img src="img/Hanging Coffins and Sumaging Cave.jpg">
+                <img src="img/pic1.jpeg">
                 <div class="info">
-                    <h4>Hanging Coffins and Sumaging Cave</h4>
+                    <h4>What makes the Philippines a must-see destination?</h4>
                     <p>
-                    The Hanging Coffins and Sumaging Cave are two fascinating attractions located in Sagada, a municipality in the
-                     Mountain Province of the Philippines.
+                    With its breathtaking beaches, diverse culture, and thrilling adventures like volcano trekking and island hopping, the Philippines offers unforgettable experiences for travelers seeking both natural wonders and cultural immersion.
                     </p>
                     <a href="https://www.youtube.com/shorts/qwEja4V3iIk">View in Youtube <i class='bx bx-link-external'></i></a>
                 </div>
             </div>
             <div class="item">
-                <img src="img/Hinatuan Enchanted RIver.jpg">
+                <img src="img/free-photo-of-birds-eye-view-of-a-man-surfing-on-the-sea-water.jpeg">
                 <div class="info">
-                    <h4>Hinatuan Enchanted RIver</h4>
+                    <h4>How does the Philippines offer unique and memorable experiences for travelers?</h4>
                     <p>       
-                        The Hinatuan Enchanted River is a captivating natural wonder located in Barangay Talisay, Hinatuan, Surigao del Sur, Philippines. 
+                        The Philippines offers a wide range of activities for adventurous souls. From trekking to the crater of an active volcano in Mt. Pinatubo to surfing the waves in Siargao, or activities like canyoneering in Kawasan Falls.
                     </p>
                     <a href="https://youtube.com/shorts/ORIyg2fs-qw?si=UPs-pYWoaKSP4QzV">View in Youtube <i class='bx bx-link-external'></i></a>
                 </div>
             </div>
             <div class="item">
-                <img src="img/Chamantad Tinan.jpg">
+                <img src="img/pic2.jpeg">
                 <div class="info">
-                    <h4>Chamantad Tinan </h4>
+                    <h4>What sets the Philippines apart as a travel destination?</h4>
                     <p>
-                    Chamantad Tinan Cove is a breathtaking natural attraction located on the island of Sabtang in the province of Batanes, Philippines. 
+                    With its blend of stunning landscapes, vibrant festivals, and endless opportunities for adventure, the Philippines beckons explorers to discover its enchanting beauty and warm hospitality.
                     </p>
                     <a href="#">View in Youtube <i class='bx bx-link-external'></i></a>
                 </div>
