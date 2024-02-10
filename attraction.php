@@ -19,7 +19,6 @@
             <a href="index.php">Home</a>
             <a href="blog.php">Blog</a>
             <a href="about.php">About</a>
-            <a href="about.php">Places</a>
         </div>
     </nav>
 
@@ -81,7 +80,7 @@
     <div class="item">
         <img src="img/Hinatuan Enchanted RIver.jpg">
         <div class="details">
-            <h3>Hinatuan Enchanted RIver</h3>
+            <h3>Hinatuan Enchanted River</h3>
             <div class="item-info">
                 <h4>Hinatuan, Surigao del Sur</h4>
             </div>
@@ -89,7 +88,7 @@
                  its crystal-clear blue waters. It is believed to be enchanted by lo
                  cals due to its mystical beauty and the mystery surrounding its dept
                  h and source.</p>
-            <a href="view_more_2.html">View More</a> <!-- Add a View More link -->
+            <a href="Hinatuan.php">View More</a> <!-- Add a View More link -->
         </div>
     </div>
     <div class="item">
@@ -103,7 +102,7 @@
                 rved Spanish colonial-era houses. It offers a glimpse into the Philip
                 pines' colonial past, with its heritage buildings, horse-drawn carria
                 ges, and nostalgic atmosphere.</p>
-            <a href="view_more_3.html">View More</a> <!-- Add a View More link -->
+            <a href="calle.php">View More</a> <!-- Add a View More link -->
         </div>
     </div>
     <div class="item">
