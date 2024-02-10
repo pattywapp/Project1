@@ -113,7 +113,7 @@
                 <h4>El Nido, Palawan</h4>
             </div>
             <p> Located in El Nido, Palawan, Philippines, it offers stunning white sandy beaches and crystal-clear waters, perfect for swimming and relaxing.</p>
-            <a href="view_more_3.html">View More</a> <!-- Add a View More link -->
+            <a href="LasCabanas.php">View More</a> <!-- Add a View More link -->
         </div>
     </div>
     <div class="item">
