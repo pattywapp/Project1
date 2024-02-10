@@ -5,7 +5,6 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
-
 }
 
 a{
@@ -47,7 +46,7 @@ nav .logo img{
 
 nav .logo a{
     font-size: 15px;
-    color: #3e3e3e;
+    color: #ffffff;
     font-weight: bold;
 }
 
@@ -58,11 +57,12 @@ nav .nav-links{
 
 nav .nav-links a{
     transition: color 0.3s ease;
+    color: #fff;
 }
 
 nav .nav-links a:hover,
 nav .nav-links a.selected{
-    color: #303f9f;
+    color: #868686;
 }
 
 .main {
@@ -73,21 +73,25 @@ nav .nav-links a.selected{
     gap: 0px;
     height: 80vh; /* Set height to 100% of viewport height */
     width: 100%; /* Set width to cover entire screen */
-    background-image: url('img/pexels-nikko-tan-133689.jpg');
+    background-image: url('img/hahaha.jpg');
     background-size: cover;
     background-position: center;
 }
 
-.main .info h1{
-    font-size: 44px;
-    margin-bottom: 40px;
+.main .info h1 {
+    font-size: 50px;
+    margin-bottom: 20px;
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7); /* horizontal offset, vertical offset, blur radius, color */
 }
 
-.main .info p{
+.main .info p {
     font-size: 16px;
     margin-bottom: 45px;
     width: 100%;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* horizontal offset, vertical offset, blur radius, color */
 }
+
+
 
 .main .info button,
 .content .post-list .post-item .buttons button{
@@ -141,7 +145,7 @@ nav .nav-links a.selected{
 }
 
 .recent .posts .post-item{
-    background-color: #fff;
+    background-color: #ffffff;
     padding: 24px;
     width: 460px;
 }
@@ -189,6 +193,7 @@ nav .nav-links a.selected{
 
 .featured{
     padding: 40px 290px 0;
+    background-color: #000;
 }
 
 .featured .item,

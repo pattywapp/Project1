@@ -14,7 +14,6 @@
         <li><a href="#list">Home</a></li>
             <li><a href="#about">About</a></li>
             <li><a href="#att">View More</a></li>
-            <li><a href="#gallery">Gallery</a></li>
             <li><a href="attraction.php">Attractions</a></li> 
         </ul>
     </header>
@@ -50,7 +49,7 @@
             <div class="item">
                 <img src="img/les cabanes.jpeg">
                 <div class="content">
-                    <p>Elnido, Palawan</p>
+                    <p>El Nido, Palawan</p>
                     <h2>Las Cabanas</h2>
                     <p>                
                     Las Cabanas Beach is a renowned coastal gem situated near El Nido in Palawan, Philippines. With its powdery white
