@@ -109,11 +109,11 @@
             <div class="post-item">
                 <h3>Chamantad Tinan</h3>
                 <div class="info">
-                    <h5>Fort Santiago – Intramuros, Manila “A National Shrine”</h5>
+                    <h5>Chamantad-Tiñan Viewpoint</h5>
                 </div>
-                <p>Fort Santiago is a grand landmark in Intramuros, Manila that is rich in history and Renaissance art. Exploring every corner of this fortified complex lets you travel back in time to the Spanish colonial period.  Its Spanish-era remnants and portrayals have further enhanced and preserved its wonderful vintage theme.</p>
+                <p>Chamantad-Tiñan Viewpoint is amongst the highest viewing sites in Sabtang Island, Batanes. The vast landscape is seated near the cove where tourists can enjoy the view of the ocean.</p>
                 <div class="buttons">
-                <a href="https://www.wonderingwanderer.com/fort-santiago-intramuros-manila-blog/">
+                <a href="https://guidetothephilippines.ph/destinations-and-attractions/chamantad-tinyan-viewpoint">
                     <button>Read More</button>
                     </a>
                 </div>
