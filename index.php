@@ -9,11 +9,11 @@
 <body>
         <!-- header -->
     <header>
-        <div class="logo">Philippines</div>
+        <div class="logo">DiscoverPhilippineGems</div>
         <ul class="menu">
         <li><a href="#list">Home</a></li>
             <li><a href="#about">About</a></li>
-            <li><a href="#att">View More</a></li>
+            <li><a href="#att">More</a></li>
             <li><a href="attraction.php">Attractions</a></li> 
         </ul>
     </header>
@@ -238,7 +238,7 @@
                     <p>
                     With its breathtaking beaches, diverse culture, and thrilling adventures like volcano trekking and island hopping, the Philippines offers unforgettable experiences for travelers seeking both natural wonders and cultural immersion.
                     </p>
-                    <a href="https://www.youtube.com/shorts/qwEja4V3iIk">View in Youtube <i class='bx bx-link-external'></i></a>
+                    <a href="https://www.youtube.com/watch?v=ZjFzkhrqIZs">View in Youtube <i class='bx bx-link-external'></i></a>
                 </div>
             </div>
             <div class="item">
@@ -248,7 +248,7 @@
                     <p>       
                         The Philippines offers a wide range of activities for adventurous souls. From trekking to the crater of an active volcano in Mt. Pinatubo to surfing the waves in Siargao, or activities like canyoneering in Kawasan Falls.
                     </p>
-                    <a href="https://youtube.com/shorts/ORIyg2fs-qw?si=UPs-pYWoaKSP4QzV">View in Youtube <i class='bx bx-link-external'></i></a>
+                    <a href="https://www.youtube.com/watch?v=ThtXz7RILWs">View in Youtube <i class='bx bx-link-external'></i></a>
                 </div>
             </div>
             <div class="item">
@@ -258,7 +258,7 @@
                     <p>
                     With its blend of stunning landscapes, vibrant festivals, and endless opportunities for adventure, the Philippines beckons explorers to discover its enchanting beauty and warm hospitality.
                     </p>
-                    <a href="#">View in Youtube <i class='bx bx-link-external'></i></a>
+                    <a href="https://www.youtube.com/shorts/yjvOK6Qnkqo">View in Youtube <i class='bx bx-link-external'></i></a>
                 </div>
             </div>
             

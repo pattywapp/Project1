@@ -11,7 +11,7 @@
 
     <nav>
         <div class="logo">
-            <a href="attraction.php">Philippines</a>
+            <a href="attraction.php">DiscoverPhilippineGems</a>
         </div>
         <div class="nav-links">
             <a href="index.php">Home</a>

@@ -13,12 +13,13 @@
 
     <nav>
         <div class="logo">
-            <a href="#">Philippines</a>
+            <a href="#">DiscoverPhilippineGems</a>
         </div>
         <div class="nav-links">
             <a href="index.php">Home</a>
-            <a href="blog.php">Blog</a>
-            <a href="about.php">About</a>
+            <a href="#blo">Blog</a>
+            <a href="#Featu">Attractions</a>
+            <a href="aboutus.php">About us</a>
         </div>
     </nav>
 
@@ -31,7 +32,7 @@
        
     </div>
 
-    <div class="recent">
+    <div class="recent" id="blo">
         <div class="header">
             <h4>Blogs</h4>
             <a href="blog.php">View all</a>
@@ -64,7 +65,7 @@
         <h4>Best Places to Explore and Enjoy</h4>
     </div>
 
-    <div class="featured">
+    <div class="featured" id="Featu">
     <div class="item">
         <img src="img/mayonitem.jpeg">
         <div class="details">
@@ -201,6 +202,7 @@
         </div>
         <p>Copyright ©2024, All rights reserved.</p>
     </footer>
+    <script src="script.js"></script>
 
 </body>
 

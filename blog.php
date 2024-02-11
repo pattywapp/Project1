@@ -5,193 +5,126 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="attraction.css">
-    <title>Blog Page | AsmrProg</title>
+    <title>Philippines</title>
 </head>
 
 <body>
 
     <nav>
         <div class="logo">
-            <a href="#">Philippines</a>
+            <a href="attraction.php">DiscoverPhilippineGems</a>
         </div>
         <div class="nav-links">
             <a href="attraction.php">Go Back</a>
             <a href="index.php">Home</a>
-            <a href="blog.html">Blog</a>
-            <a href="about.html">About</a>
+            <a href="aboutus.php">About</a>
         </div>
     </nav>
 
 
-    <h1 class="page-title">Blogs</h1>
+    <h1 class="page-title"> More Blogs    </h1>
 
     <div class="content">
         <div class="post-list">
             <div class="post-item">
                 <h3>Mayon Volcano</h3>
                 <div class="info">
-                    <h5>12 Jan 2024</h5>
-                    <h5>|</h5>
-                    <h5>Design, Layout</h5>
+                    <h5>Guide to Mayon Volcano in Albay Bicol: World's Most Perfect Volcanic Cone</h5>
                 </div>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet pariatur porro quaerat provident
-                    corporis facere ex voluptatibus laudantium voluptates quos.</p>
+                <p>Of all the volcanoes in the Philippines, Mayon Volcano or Mount Mayon is the most iconic because of its perfect cone shape. With the majestic view it offers, doing Mayon Volcano tours like the Mayon ATV activity has become the main itinerary of travelers visiting the region. </p>
 
                 <div class="buttons">
-                    <i class='bx bx-share'></i>
-                    <i class='bx bx-link-alt'></i>
-                    <i class='bx bx-copy'></i>
-                    <i class='bx bx-bookmark-plus'></i>
+                <a href="https://guidetothephilippines.ph/articles/ultimate-guides/mayon-volcano-guide-albay-bicol">
                     <button>Read More</button>
-                </div>
-
-            </div>
-            <div class="post-item">
-                <h3>Making a design system from scratch</h3>
-                <div class="info">
-                    <h5>5 Jan 2024</h5>
-                    <h5>|</h5>
-                    <h5>Design, UI, UX</h5>
-                </div>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet pariatur porro quaerat provident
-                    corporis facere ex voluptatibus laudantium voluptates quos.</p>
-                <div class="buttons">
-                    <i class='bx bx-share'></i>
-                    <i class='bx bx-link-alt'></i>
-                    <i class='bx bx-copy'></i>
-                    <i class='bx bx-bookmark-plus'></i>
-                    <button>Read More</button>
+                    </a>
                 </div>
             </div>
 
             <div class="post-item">
-                <h3>Making a layout system from scratch</h3>
+                <h3>Hinatuan Enchanted River</h3>
                 <div class="info">
-                    <h5>12 Jan 2024</h5>
-                    <h5>|</h5>
-                    <h5>Design, Layout</h5>
+                    <h5>A magically clear, blue river that seems to spring from nowhere. </h5>
                 </div>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet pariatur porro quaerat provident
-                    corporis facere ex voluptatibus laudantium voluptates quos.</p>
+                <p>HIDDEN IN THE PHILIPPINE JUNGLE is a short stretch of river that seems to pop up out the ground just to send its miraculously clear, blue water out to the sea.</p>
                 <div class="buttons">
-                    <i class='bx bx-share'></i>
-                    <i class='bx bx-link-alt'></i>
-                    <i class='bx bx-copy'></i>
-                    <i class='bx bx-bookmark-plus'></i>
+                <a href="https://www.atlasobscura.com/places/hinatuan-enchanted-river">
                     <button>Read More</button>
+                    </a>
                 </div>
             </div>
 
             <div class="post-item">
-                <h3>Making a layout system from scratch</h3>
+                <h3>Calle Crisologo</h3>
                 <div class="info">
-                    <h5>12 Jan 2024</h5>
-                    <h5>|</h5>
-                    <h5>Design, Layout</h5>
+                    <h5>Information about Calle Crisologo</h5>
                 </div>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet pariatur porro quaerat provident
-                    corporis facere ex voluptatibus laudantium voluptates quos.</p>
+                <p>Calle Crisologo owes its name to the illustrious Ilocano poet, writer, and playwright Governor Marcelino “Mena” Crisologo. Previously, the street was called Calle de Escolta de Vigan, whose residents were mostly families who profited from the galleon trade that included Ilocos as a key port. When Governor Crisologo died in 1927, the street was renamed Calle Crisologo in his honor.</p>
                 <div class="buttons">
-                    <i class='bx bx-share'></i>
-                    <i class='bx bx-link-alt'></i>
-                    <i class='bx bx-copy'></i>
-                    <i class='bx bx-bookmark-plus'></i>
+                <a href="https://guidetothephilippines.ph/destinations-and-attractions/calle-crisologo">
                     <button>Read More</button>
+                    </a>
+                </div>
+            </div>
+
+            
+            <div class="post-item">
+                <h3>Las Cabanas Beach</h3>
+                <div class="info">
+                    <h5>Las Cabanas Beach In El Nido – A Complete Guide</h5>
+                </div>
+                <p>Las Cabanas Beach in El Nido is undoubtedly the best place to catch a sunset in the Philippines. Here’s al the info for visiting.</p>
+                <div class="buttons">
+                <a href="https://charliepauly.com/las-cabanas-beach-el-nido/">
+                    <button>Read More</button>
+                    </a>
                 </div>
             </div>
 
             <div class="post-item">
-                <h3>Making a layout system from scratch</h3>
+                <h3>Little Boracay</h3>
                 <div class="info">
-                    <h5>12 Jan 2024</h5>
-                    <h5>|</h5>
-                    <h5>Design, Layout</h5>
+                    <h5>Little Boracay and Sand Bar – Calatagan, Batangas</h5>
                 </div>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet pariatur porro quaerat provident
-                    corporis facere ex voluptatibus laudantium voluptates quos.</p>
+                <p>Calatagan is one of the best places in Batangas if you wanted a beach not too far from Manila. It is very accessible and could only take about 3 to 4 hours drive via Tagaytay-Nasugbu road. We traveled from Cavite and it only took us 2 hours to drive going here. This municipalicity is known for its sandy shores making it also good as a camping destination. Burot and Stilts are one of the most popular and most visited beaches here in Calatagan. Maybe you have not heard yet about the island that they call here as Little Boracay and Sand Bar?</p>
                 <div class="buttons">
-                    <i class='bx bx-share'></i>
-                    <i class='bx bx-link-alt'></i>
-                    <i class='bx bx-copy'></i>
-                    <i class='bx bx-bookmark-plus'></i>
+                <a href="https://allaboutloveikkin.wordpress.com/2021/03/06/little-boracay-and-sand-bar-calatagan-batangas-daytour/">
                     <button>Read More</button>
+                    </a>
                 </div>
             </div>
 
             <div class="post-item">
-                <h3>Making a layout system from scratch</h3>
+                <h3>Fort Santiago Manila</h3>
                 <div class="info">
-                    <h5>12 Jan 2024</h5>
-                    <h5>|</h5>
-                    <h5>Design, Layout</h5>
+                    <h5>Fort Santiago – Intramuros, Manila “A National Shrine”</h5>
                 </div>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet pariatur porro quaerat provident
-                    corporis facere ex voluptatibus laudantium voluptates quos.</p>
+                <p>Fort Santiago is a grand landmark in Intramuros, Manila that is rich in history and Renaissance art. Exploring every corner of this fortified complex lets you travel back in time to the Spanish colonial period.  Its Spanish-era remnants and portrayals have further enhanced and preserved its wonderful vintage theme.</p>
                 <div class="buttons">
-                    <i class='bx bx-share'></i>
-                    <i class='bx bx-link-alt'></i>
-                    <i class='bx bx-copy'></i>
-                    <i class='bx bx-bookmark-plus'></i>
+                <a href="https://www.wonderingwanderer.com/fort-santiago-intramuros-manila-blog/">
                     <button>Read More</button>
+                    </a>
                 </div>
             </div>
-
 
             <div class="post-item">
-                <h3>Making a layout system from scratch</h3>
+                <h3>Chamantad Tinan</h3>
                 <div class="info">
-                    <h5>12 Jan 2024</h5>
-                    <h5>|</h5>
-                    <h5>Design, Layout</h5>
+                    <h5>Fort Santiago – Intramuros, Manila “A National Shrine”</h5>
                 </div>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet pariatur porro quaerat provident
-                    corporis facere ex voluptatibus laudantium voluptates quos.</p>
+                <p>Fort Santiago is a grand landmark in Intramuros, Manila that is rich in history and Renaissance art. Exploring every corner of this fortified complex lets you travel back in time to the Spanish colonial period.  Its Spanish-era remnants and portrayals have further enhanced and preserved its wonderful vintage theme.</p>
                 <div class="buttons">
-                    <i class='bx bx-share'></i>
-                    <i class='bx bx-link-alt'></i>
-                    <i class='bx bx-copy'></i>
-                    <i class='bx bx-bookmark-plus'></i>
+                <a href="https://www.wonderingwanderer.com/fort-santiago-intramuros-manila-blog/">
                     <button>Read More</button>
+                    </a>
                 </div>
             </div>
 
 
-            <div class="post-item">
-                <h3>Making a layout system from scratch</h3>
-                <div class="info">
-                    <h5>12 Jan 2024</h5>
-                    <h5>|</h5>
-                    <h5>Design, Layout</h5>
-                </div>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet pariatur porro quaerat provident
-                    corporis facere ex voluptatibus laudantium voluptates quos.</p>
-                <div class="buttons">
-                    <i class='bx bx-share'></i>
-                    <i class='bx bx-link-alt'></i>
-                    <i class='bx bx-copy'></i>
-                    <i class='bx bx-bookmark-plus'></i>
-                    <button>Read More</button>
-                </div>
-            </div>
 
 
-            <div class="post-item">
-                <h3>Making a layout system from scratch</h3>
-                <div class="info">
-                    <h5>12 Jan 2024</h5>
-                    <h5>|</h5>
-                    <h5>Design, Layout</h5>
-                </div>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet pariatur porro quaerat provident
-                    corporis facere ex voluptatibus laudantium voluptates quos.</p>
-                <div class="buttons">
-                    <i class='bx bx-share'></i>
-                    <i class='bx bx-link-alt'></i>
-                    <i class='bx bx-copy'></i>
-                    <i class='bx bx-bookmark-plus'></i>
-                    <button>Read More</button>
-                </div>
-            </div>
+
+            
+           
 
 
         </div>
