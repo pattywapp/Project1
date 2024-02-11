@@ -117,19 +117,6 @@ footer p{
     align-items: center;
 }
 
-.content .work-info{
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    gap: 20px;
-    width: 970px;
-}
-
-.content .work-info .category{
-    color: #8695a4;
-    font-size: 18px;
-}
-
 .container h2 {
     color: rgb(0, 0, 0);
 }

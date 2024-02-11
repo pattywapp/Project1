@@ -128,73 +128,6 @@ nav .nav-links a.selected{
     border-radius: 140px;
 }
 
-.recent{
-    padding: 60px 148px;
-    background-color: #000000;
-}
-
-.recent .header{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 30px;
-}
-
-.recent .header h4,
-.separator h4{
-    font-size: 20px;
-    font-weight: 400;
-}
-
-.recent .header a{
-    color: #303f9f;
-}
-
-.recent .posts{
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-}
-
-.recent .posts .post-item{
-    background-color: #ffffff;
-    padding: 24px;
-    width: 460px;
-}
-
-.recent .posts .post-item h3,
-.content .post-list .post-item h3{
-    font-size: 26px;
-    margin-bottom: 18px;
-    
-}
-
-.recent .posts .post-item .info,
-.content .post-list .post-item .info{
-    display: flex;
-    gap: 10px;
-    margin-bottom: 10px;
-}
-
-.recent .posts .post-item .info h5,
-.content .post-list .post-item h5{
-    font-size: 18px;
-    font-weight: 400;
-}
-
-.recent .posts .post-item p{
-    width: 400px;
-    color: black;
-}
-
-/* Add this CSS to your existing stylesheet */
-
-.recent .post-item h3,
-.recent .post-item .info h5 {
-    color: #000;
-}
-
-
 .separator{
     padding: 40px 148px 0;
 }
@@ -428,10 +361,6 @@ footer p{
         padding: 0 60px;
     }
 
-    .recent{
-        padding: 60px;
-    }
-
     .featured,
     .separator{
         padding: 40px 60px 0;
@@ -456,10 +385,6 @@ footer p{
     .main img{
         width: 340px;
         height: 340px;
-    }
-
-    .recent{
-        padding: 40px;
     }
 
     .featured,
@@ -529,29 +454,6 @@ footer p{
     .main .info button{
         font-size: 15px;
         padding: 8px 22px;
-    }
-
-    .recent{
-        padding: 40px 20px;
-    }
-
-    .recent .posts .post-item{
-        width: 100%;
-    }
-
-    .recent .posts .post-item h3,
-    .content .post-list .post-item h3{
-        font-size: 20px;
-    }
-
-    .recent .posts .post-item .info h5,
-    .content .post-list .post-item .info h5{
-        font-size: 14px;
-    }
-
-    .recent .posts .post-item p{
-        width: 100%;
-        font-size: 14px;
     }
 
     .featured,
@@ -643,8 +545,7 @@ footer p{
         height: auto;
         border-radius: 50px;
     }
-
-    .recent .posts,
+    .posts,
     .content .container{
         flex-direction: column;
     }

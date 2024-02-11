@@ -119,6 +119,52 @@
                 </div>
             </div>
 
+            <div class="post-item">
+                <h3>Basco Lighthouse</h3>
+                <div class="info">
+                    <h5>North Batan: Basco Lighthouse </h5>
+                </div>
+                <p>Yes, they said that the sunset was perfect here. 
+                    But the sun hid from us that day.
+                    It was just the scattering of light rays in different directions that was present.  
+                    I guess it wasn't our lucky day. 
+                    But even so, I still believe that it still an awesome experience. 
+                    </p>
+                                    <div class="buttons">
+                <a href="https://itsasoithing.blogspot.com/2015/10/north-batan-basco-lighthouse-and-naidi.html">
+                    <button>Read More</button>
+                    </a>
+                </div>
+            </div>
+
+            <div class="post-item">
+                <h3>Hundred Islands</h3>
+                <div class="info">
+                    <h5>Alaminos-Bolinao (Hundred Islands), Pangasinan 2D1N Tour Itinerary Part 1 of 2</h5>
+                </div>
+               <p>My return to Hundred Islands in Alaminos was planned with my co-workers and we just booked a tour since it would be cheaper if we do it than DIY. The tour costs ₱1,988 for 2D1N Hundred Islands and Bolinao Tour.</p>
+                                    <div class="buttons">
+                <a href="https://taonggala.wordpress.com/2019/04/06/hundred-islands/">
+                    <button>Read More</button>
+                    </a>
+                </div>
+            </div>
+
+            <div class="post-item">
+                <h3>Hanging Coffins and Sumaging Cave   </h3>
+                <div class="info">
+                    <h5>HANGING COFFINS AT ECHO VALLEY</h5>
+                </div>
+            <p>The Igorot tribe of Mountain Province believes that by moving the bodies of their dead higher up brings them closer to their ancestral spirit, thus the practice of Hanging Coffins.</p>
+                                    <div class="buttons">
+                <a href="https://lifetoreset.wordpress.com/2014/08/07/hanging-coffins-at-echo-valley-and-spelunking-at-sumaguing-cave-sagada-mountain-province-philippines/">
+                    <button>Read More</button>
+                    </a>
+                </div>
+            </div>
+
+
+
 
 
 
