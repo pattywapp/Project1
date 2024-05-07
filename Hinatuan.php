@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -17,7 +18,7 @@
             <a href="index.php">Home</a>
             <a href="attraction.php">Attraction</a>
             <a href="blog.php">Blog</a>
-            <a href="about.php">About</a>
+            <a href="aboutus.php">About</a>
         </div>
     </nav>
 

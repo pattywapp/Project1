@@ -19,7 +19,6 @@
             <a href="index.php">Home</a>
             <a href="attraction.php">Attractions</a>
             <a href="blog.php">Blog</a>
-            <a href="about.html">About</a>
         </div>
     </nav>
 

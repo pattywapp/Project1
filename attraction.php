@@ -17,7 +17,7 @@
         </div>
         <div class="nav-links">
             <a href="index.php">Home</a>
-            <a href="#blo">Blog</a>
+            <a href="blog.php">Blog</a>
             <a href="#Featu">Attractions</a>
             <a href="aboutus.php">About us</a>
         </div>
@@ -30,35 +30,6 @@
          
         </div>
        
-    </div>
-
-    <div class="recent" id="blo">
-        <div class="header">
-            <h4>Blogs</h4>
-            <a href="blog.php">View all</a>
-        </div> 
-        <div class="posts">
-            <div class="post-item">
-                <h3>@poortraveler</h3>
-                <div class="info">
-                    <h5>Blog 1</h5>
-                    <h5>|</h5>
-                    <h5></h5>
-                </div>
-                <p>“Mayon is the most beautiful mountain I have ever seen, the world-renowned Fujiyama (Mt. Fuji) of Japan sinking into perfect insignificance by comparison.”
-—British traveler-writer A. Henry Savage Landor</p>
-            </div>
-            <div class="post-item">
-                <h3>@YODISPHERE</h3>
-                <div class="info">
-                    <h5>Blog 2</h5>
-                    <h5>|</h5>
-                    <h5></h5>
-                </div>
-                <p>I came across this place called Little Boracay. Sometimes, naming a place from a more famous travel destination does helps in marketing - but personally
-                     I don't usually agree with this trick because each place has a unique beauty of its own.</p>
-            </div>
-        </div>
     </div>
 
     <div class="separator">
